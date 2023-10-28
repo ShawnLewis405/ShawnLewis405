@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shawn Lewis</h1>
-<h3 align="center">Full Stack Developer located in Oklahoma City, Oklahoma</h3>
+<h3 align="center">Front End & iOS Developer located in Oklahoma City, Oklahoma</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawnlewis405&label=Profile%20views&color=0e75b6&style=flat" alt="shawnlewis405" /> </p>
 

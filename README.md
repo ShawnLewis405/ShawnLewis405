@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shawn Lewis</h1>
+<h1 align="center">Shawn Lewis</h1>
 <h3 align="center">Front End & iOS Developer located in Oklahoma City, Oklahoma</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawnlewis405&label=Profile%20views&color=0e75b6&style=flat" alt="shawnlewis405" /> </p>
@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **OTR Per Diem Tracker**
 
-- 🌱 I’m currently learning **PHP, MySQL**
+- 🌱 I’m currently learning **Back-End API Development**
 
-- 👯 I’m looking to collaborate on **PHP related projects**
+- 👯 I’m looking to collaborate on **iOS related projects**
 
 - 🤝 I’m looking for help with **Improving my PHP skills**
 
-- 💬 Ask me about **HTML,CSS,JS**
+- 💬 Ask me about **Anything iOS related**
 
 - 📫 How to reach me **shawnlewis52@gmail.com**
 
